@@ -51,7 +51,7 @@ Add these files and folders to your project directory :
 * Suggest improvements for a named section (e.g., SUMMARY, WORK EXPERIENCE).
 
 ### 🛠️ How to run 
-* Run main_phase1.py (In PyCharm, write this command in the terminal):
+* Run main_phase1.py (In PyCharm, write this command in the terminal): python main_phase1.py
 
 ### 🎛️ The available commands 
 *   `exit` or `quit`: End the run.
@@ -71,7 +71,7 @@ Add these files and folders to your project directory :
 *   Issue a final recommendation with written justification.
 
 ### 🛠️ How to run 
-*   Run `main_phase1.py` (In PyCharm, write this command in the terminal): python main_phase_1.py
+*   Run `main_phase1.py` (In PyCharm, write this command in the terminal): python main_phase2.py
 
 ### 🎛️ The available commands 
 *   `exit` or `quit`: End the run.
