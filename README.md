@@ -35,9 +35,10 @@ Add these files and folders to your project directory :
    <p>PINECONE_INDEX_NAME=cv-analyser-index</p>
    <p>PINECONE_NAMESPACE=cv-analyser-namespace</p>
 
-2. Create a folder called data.
-3. Inside the data folder, add a job description.txt file.
-4. Inside the data folder, create another folder called CVs and add your candidate CV doc files there.
+2. Make sure you have a folder to put the data in. so you can do these steps:
+- Create folder called "data".
+- Inside the data folder, create a new folder to put your job description files in.
+- Inside the data folder, create another folder to put your CV's files in.
 
 ---
 
