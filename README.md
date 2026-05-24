@@ -71,10 +71,11 @@ Add these files and folders to your project directory :
 *   Issue a final recommendation with written justification.
 
 ### 🛠️ How to run 
-*   Run `main_phase1.py` (In PyCharm, write this command in the terminal): python main_phase2.py
+*   Run `main_phase2.py` (In PyCharm, write this command in the terminal): python main_phase2.py
 
 ### 🎛️ The available commands 
 *   `exit` or `quit`: End the run.
+*   `select`: Select another job description.
 *   `score`: Receive a score out of 10 indicating how well each candidate matches the chosen job description.
 *   `comparison`: Compare the candidates (don't compare yet).
 *   `recommendation`: Choose the best recommended candidate for the selected job.
